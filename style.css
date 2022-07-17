@@ -297,8 +297,9 @@ img{
 }
 
     footer{
-        position: absolute;
-        bottom: 1;
+        position: relative;
+        height: 130px;
+        bottom: 0;
         left: 0;
         right: 0;
         background: #111;
